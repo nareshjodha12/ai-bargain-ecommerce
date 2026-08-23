@@ -1,4 +1,4 @@
-# ai-bargain-ecommerce
+# AI Powered E-commerce Negotiation
 # Description
 Think about how shopping works online today. You go to Amazon or Flipkart, see a product, and the price is fixed. You either buy it or you don't. There is no bargaining.
 But in real life — at a local market or a small shop — you can say "bhaiya 1500 mein dedo" and the shopkeeper says "nahi 1800 lo" and you both reach a middle ground. This project brings that bargaining experience to online shopping using Artificial Intelligence.
